@@ -1,0 +1,175 @@
+2021-10-23 19:07:58,575 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration boolean -> org.hibernate.type.BooleanType@7e7e962d
+2021-10-23 19:07:58,658 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration boolean -> org.hibernate.type.BooleanType@7e7e962d
+2021-10-23 19:07:58,658 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@7e7e962d
+2021-10-23 19:07:58,690 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@f25f48a
+2021-10-23 19:07:58,692 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration true_false -> org.hibernate.type.TrueFalseType@7499eac7
+2021-10-23 19:07:58,694 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration yes_no -> org.hibernate.type.YesNoType@429aeac1
+2021-10-23 19:07:58,714 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration byte -> org.hibernate.type.ByteType@1378eea2
+2021-10-23 19:07:58,715 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration byte -> org.hibernate.type.ByteType@1378eea2
+2021-10-23 19:07:58,715 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@1378eea2
+2021-10-23 19:07:58,748 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration character -> org.hibernate.type.CharacterType@2ffe243f
+2021-10-23 19:07:58,749 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration char -> org.hibernate.type.CharacterType@2ffe243f
+2021-10-23 19:07:58,749 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@2ffe243f
+2021-10-23 19:07:58,781 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration short -> org.hibernate.type.ShortType@3728a578
+2021-10-23 19:07:58,781 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration short -> org.hibernate.type.ShortType@3728a578
+2021-10-23 19:07:58,782 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Short -> org.hibernate.type.ShortType@3728a578
+2021-10-23 19:07:58,786 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration integer -> org.hibernate.type.IntegerType@4215e133
+2021-10-23 19:07:58,786 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration int -> org.hibernate.type.IntegerType@4215e133
+2021-10-23 19:07:58,787 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@4215e133
+2021-10-23 19:07:58,847 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration long -> org.hibernate.type.LongType@488f3dd1
+2021-10-23 19:07:58,848 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration long -> org.hibernate.type.LongType@488f3dd1
+2021-10-23 19:07:58,848 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Long -> org.hibernate.type.LongType@488f3dd1
+2021-10-23 19:07:58,851 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration float -> org.hibernate.type.FloatType@1f43cab7
+2021-10-23 19:07:58,852 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration float -> org.hibernate.type.FloatType@1f43cab7
+2021-10-23 19:07:58,852 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Float -> org.hibernate.type.FloatType@1f43cab7
+2021-10-23 19:07:58,869 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration double -> org.hibernate.type.DoubleType@1c93b51e
+2021-10-23 19:07:58,869 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration double -> org.hibernate.type.DoubleType@1c93b51e
+2021-10-23 19:07:58,870 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@1c93b51e
+2021-10-23 19:07:58,873 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@420cd102
+2021-10-23 19:07:58,874 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@420cd102
+2021-10-23 19:07:58,891 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration big_integer -> org.hibernate.type.BigIntegerType@ca8ef3a
+2021-10-23 19:07:58,891 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@ca8ef3a
+2021-10-23 19:07:58,895 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration string -> org.hibernate.type.StringType@4c82b5df
+2021-10-23 19:07:58,896 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.String -> org.hibernate.type.StringType@4c82b5df
+2021-10-23 19:07:58,899 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration nstring -> org.hibernate.type.StringNVarcharType@7ba93755
+2021-10-23 19:07:58,901 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@546394ed
+2021-10-23 19:07:58,904 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration url -> org.hibernate.type.UrlType@a6e4897
+2021-10-23 19:07:58,905 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.net.URL -> org.hibernate.type.UrlType@a6e4897
+2021-10-23 19:07:58,924 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration Duration -> org.hibernate.type.DurationType@7ef8eda7
+2021-10-23 19:07:58,925 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.Duration -> org.hibernate.type.DurationType@7ef8eda7
+2021-10-23 19:07:58,930 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration Instant -> org.hibernate.type.InstantType@32120956
+2021-10-23 19:07:58,930 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.Instant -> org.hibernate.type.InstantType@32120956
+2021-10-23 19:07:58,968 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@566f1852
+2021-10-23 19:07:58,969 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@566f1852
+2021-10-23 19:07:58,992 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration LocalDate -> org.hibernate.type.LocalDateType@4978777f
+2021-10-23 19:07:58,992 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@4978777f
+2021-10-23 19:07:58,996 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@91da29b
+2021-10-23 19:07:58,996 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@91da29b
+2021-10-23 19:07:59,040 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@17e0933c
+2021-10-23 19:07:59,041 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@17e0933c
+2021-10-23 19:07:59,045 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@478b0739
+2021-10-23 19:07:59,045 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@478b0739
+2021-10-23 19:07:59,053 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@77429040
+2021-10-23 19:07:59,053 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@77429040
+2021-10-23 19:07:59,093 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration date -> org.hibernate.type.DateType@7e3d7dd
+2021-10-23 19:07:59,094 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.Date -> org.hibernate.type.DateType@7e3d7dd
+2021-10-23 19:07:59,099 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration time -> org.hibernate.type.TimeType@5d152bcd
+2021-10-23 19:07:59,100 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.Time -> org.hibernate.type.TimeType@5d152bcd
+2021-10-23 19:07:59,105 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration timestamp -> org.hibernate.type.TimestampType@1450131a
+2021-10-23 19:07:59,106 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@1450131a
+2021-10-23 19:07:59,106 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.Date -> org.hibernate.type.TimestampType@1450131a
+2021-10-23 19:07:59,112 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@53f0d09c
+2021-10-23 19:07:59,145 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration calendar -> org.hibernate.type.CalendarType@3f6f3cc
+2021-10-23 19:07:59,146 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@3f6f3cc
+2021-10-23 19:07:59,146 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@3f6f3cc
+2021-10-23 19:07:59,148 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@47272cd3
+2021-10-23 19:07:59,151 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration calendar_time -> org.hibernate.type.CalendarTimeType@707ca986
+2021-10-23 19:07:59,154 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration locale -> org.hibernate.type.LocaleType@2839e3c8
+2021-10-23 19:07:59,155 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@2839e3c8
+2021-10-23 19:07:59,178 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration currency -> org.hibernate.type.CurrencyType@25c2a9e3
+2021-10-23 19:07:59,179 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@25c2a9e3
+2021-10-23 19:07:59,190 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration timezone -> org.hibernate.type.TimeZoneType@423a0e1d
+2021-10-23 19:07:59,190 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@423a0e1d
+2021-10-23 19:07:59,193 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration class -> org.hibernate.type.ClassType@52ae997b
+2021-10-23 19:07:59,193 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Class -> org.hibernate.type.ClassType@52ae997b
+2021-10-23 19:07:59,196 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@5a058be5
+2021-10-23 19:07:59,196 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@5a058be5
+2021-10-23 19:07:59,198 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@71aaf151
+2021-10-23 19:07:59,202 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration binary -> org.hibernate.type.BinaryType@43ecfeb5
+2021-10-23 19:07:59,202 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration byte[] -> org.hibernate.type.BinaryType@43ecfeb5
+2021-10-23 19:07:59,202 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration [B -> org.hibernate.type.BinaryType@43ecfeb5
+2021-10-23 19:07:59,204 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@4da1f38a
+2021-10-23 19:07:59,205 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@4da1f38a
+2021-10-23 19:07:59,205 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@4da1f38a
+2021-10-23 19:07:59,208 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration row_version -> org.hibernate.type.RowVersionType@377874b4
+2021-10-23 19:07:59,209 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration image -> org.hibernate.type.ImageType@2a02e34b
+2021-10-23 19:07:59,213 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration characters -> org.hibernate.type.CharArrayType@7b25ab31
+2021-10-23 19:07:59,213 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration char[] -> org.hibernate.type.CharArrayType@7b25ab31
+2021-10-23 19:07:59,213 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration [C -> org.hibernate.type.CharArrayType@7b25ab31
+2021-10-23 19:07:59,215 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@494c8f29
+2021-10-23 19:07:59,216 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@494c8f29
+2021-10-23 19:07:59,216 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@494c8f29
+2021-10-23 19:07:59,217 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration text -> org.hibernate.type.TextType@4b515eab
+2021-10-23 19:07:59,218 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration ntext -> org.hibernate.type.NTextType@36776c32
+2021-10-23 19:07:59,221 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration blob -> org.hibernate.type.BlobType@4cc65c2
+2021-10-23 19:07:59,222 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@4cc65c2
+2021-10-23 19:07:59,253 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@67770b37
+2021-10-23 19:07:59,257 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration clob -> org.hibernate.type.ClobType@73c31181
+2021-10-23 19:07:59,258 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@73c31181
+2021-10-23 19:07:59,261 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration nclob -> org.hibernate.type.NClobType@4bc59b27
+2021-10-23 19:07:59,262 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@4bc59b27
+2021-10-23 19:07:59,264 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@6418e39e
+2021-10-23 19:07:59,268 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@2accaec2
+2021-10-23 19:07:59,287 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration serializable -> org.hibernate.type.SerializableType@6b1b19cf
+2021-10-23 19:07:59,376 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration object -> org.hibernate.type.ObjectType@ec7b5de
+2021-10-23 19:07:59,376 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@ec7b5de
+2021-10-23 19:07:59,380 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@65629ac6
+2021-10-23 19:07:59,380 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@56b8aaf1
+2021-10-23 19:07:59,381 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@5482bcac
+2021-10-23 19:07:59,381 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@10244722
+2021-10-23 19:07:59,381 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@61615b4a
+2021-10-23 19:07:59,382 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@721d8ab5
+2021-10-23 19:07:59,382 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@33bb3f86
+2021-10-23 19:07:59,383 DEBUG org.hibernate.type.BasicTypeRegistry [main] Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@1946384
+2021-10-23 19:08:00,196 DEBUG org.hibernate.type.spi.TypeConfiguration$Scope [main] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@31723307] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@2401856]
+2021-10-23 19:08:01,444 DEBUG org.hibernate.type.spi.TypeConfiguration$Scope [main] Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@31723307] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@682e422c]
+2021-10-23 19:08:03,257 DEBUG org.hibernate.SQL [main] drop table if exists address CASCADE 
+2021-10-23 19:08:03,262 DEBUG org.hibernate.SQL [main] drop table if exists books CASCADE 
+2021-10-23 19:08:03,264 DEBUG org.hibernate.SQL [main] drop table if exists course CASCADE 
+2021-10-23 19:08:03,265 DEBUG org.hibernate.SQL [main] drop table if exists course_likes CASCADE 
+2021-10-23 19:08:03,266 DEBUG org.hibernate.SQL [main] drop table if exists customer CASCADE 
+2021-10-23 19:08:03,267 DEBUG org.hibernate.SQL [main] drop table if exists employee CASCADE 
+2021-10-23 19:08:03,269 DEBUG org.hibernate.SQL [main] drop table if exists pages CASCADE 
+2021-10-23 19:08:03,270 DEBUG org.hibernate.SQL [main] drop table if exists student CASCADE 
+2021-10-23 19:08:03,270 DEBUG org.hibernate.SQL [main] drop table if exists student_liked_courses CASCADE 
+2021-10-23 19:08:03,271 DEBUG org.hibernate.SQL [main] drop table if exists user CASCADE 
+2021-10-23 19:08:03,272 DEBUG org.hibernate.SQL [main] drop sequence if exists hibernate_sequence
+2021-10-23 19:08:03,281 DEBUG org.hibernate.SQL [main] create sequence hibernate_sequence start with 1 increment by 1
+2021-10-23 19:08:03,293 DEBUG org.hibernate.SQL [main] create table address (id integer not null, city varchar(255), pincode integer not null, primary key (id))
+2021-10-23 19:08:03,307 DEBUG org.hibernate.SQL [main] create table books (id bigint not null, author varchar(255), isbn varchar(255), title varchar(255), primary key (id))
+2021-10-23 19:08:03,309 DEBUG org.hibernate.SQL [main] create table course (id bigint not null, primary key (id))
+2021-10-23 19:08:03,311 DEBUG org.hibernate.SQL [main] create table course_likes (course_id bigint not null, likes_id bigint not null, primary key (course_id, likes_id))
+2021-10-23 19:08:03,321 DEBUG org.hibernate.SQL [main] create table customer (customer_id bigint not null, address varchar(255), mobile bigint, cust_name varchar(255), primary key (customer_id))
+2021-10-23 19:08:03,323 DEBUG org.hibernate.SQL [main] create table employee (empid bigint not null, name varchar(255), address_id integer, primary key (empid))
+2021-10-23 19:08:03,325 DEBUG org.hibernate.SQL [main] create table pages (id bigint not null, chapter varchar(255), content varchar(255), number integer not null, book_id bigint not null, primary key (id))
+2021-10-23 19:08:03,326 DEBUG org.hibernate.SQL [main] create table student (id bigint not null, primary key (id))
+2021-10-23 19:08:03,328 DEBUG org.hibernate.SQL [main] create table student_liked_courses (student_id bigint not null, liked_courses_id bigint not null, primary key (student_id, liked_courses_id))
+2021-10-23 19:08:03,330 DEBUG org.hibernate.SQL [main] create table user (id bigint not null, password varchar(255), role varchar(255), user_name varchar(255), primary key (id))
+2021-10-23 19:08:03,331 DEBUG org.hibernate.SQL [main] alter table books add constraint UK_kibbepcitr0a3cpk3rfr7nihn unique (isbn)
+2021-10-23 19:08:03,332 DEBUG org.hibernate.SQL [main] alter table course_likes add constraint FKhtvliuveqffco00jo5g6i3srt foreign key (likes_id) references student
+2021-10-23 19:08:03,345 DEBUG org.hibernate.SQL [main] alter table course_likes add constraint FKmgb2mh1mfjcxcmtchj6bk8x4s foreign key (course_id) references course
+2021-10-23 19:08:03,347 DEBUG org.hibernate.SQL [main] alter table employee add constraint FKga73hdtpb67twlr9c1i337tyt foreign key (address_id) references address
+2021-10-23 19:08:03,351 DEBUG org.hibernate.SQL [main] alter table pages add constraint FK5lpjg9gvqj3g9ukhyecxdf6cq foreign key (book_id) references books
+2021-10-23 19:08:03,353 DEBUG org.hibernate.SQL [main] alter table student_liked_courses add constraint FK8wq2vrvs0gwlktd41fty965ga foreign key (liked_courses_id) references course
+2021-10-23 19:08:03,356 DEBUG org.hibernate.SQL [main] alter table student_liked_courses add constraint FK7yoc8we7u5512rqo0ryhah8wj foreign key (student_id) references student
+2021-10-23 19:08:03,419 TRACE org.hibernate.type.spi.TypeConfiguration$Scope [main] Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@682e422c] for TypeConfiguration
+2021-10-23 19:08:11,045 DEBUG org.hibernate.SQL [main] call next value for hibernate_sequence
+2021-10-23 19:08:11,182 DEBUG org.hibernate.SQL [main] insert into customer (address, mobile, cust_name, customer_id) values (?, ?, ?, ?)
+2021-10-23 19:08:11,186 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [1] as [VARCHAR] - [Pune]
+2021-10-23 19:08:11,187 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [2] as [BIGINT] - [7852369852]
+2021-10-23 19:08:11,188 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [3] as [VARCHAR] - [ravi]
+2021-10-23 19:08:11,188 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [4] as [BIGINT] - [1]
+2021-10-23 19:08:11,195 DEBUG org.hibernate.SQL [main] call next value for hibernate_sequence
+2021-10-23 19:08:11,196 DEBUG org.hibernate.SQL [main] insert into customer (address, mobile, cust_name, customer_id) values (?, ?, ?, ?)
+2021-10-23 19:08:11,196 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [1] as [VARCHAR] - [Goa]
+2021-10-23 19:08:11,197 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [2] as [BIGINT] - [7852369852]
+2021-10-23 19:08:11,197 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [3] as [VARCHAR] - [ajit]
+2021-10-23 19:08:11,197 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [4] as [BIGINT] - [2]
+2021-10-23 19:08:11,199 DEBUG org.hibernate.SQL [main] call next value for hibernate_sequence
+2021-10-23 19:08:11,200 DEBUG org.hibernate.SQL [main] insert into customer (address, mobile, cust_name, customer_id) values (?, ?, ?, ?)
+2021-10-23 19:08:11,200 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [1] as [VARCHAR] - [Mumbai]
+2021-10-23 19:08:11,200 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [2] as [BIGINT] - [7852369852]
+2021-10-23 19:08:11,201 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [3] as [VARCHAR] - [rajesh]
+2021-10-23 19:08:11,201 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [4] as [BIGINT] - [3]
+2021-10-23 19:08:11,206 DEBUG org.hibernate.SQL [main] call next value for hibernate_sequence
+2021-10-23 19:08:11,208 DEBUG org.hibernate.SQL [main] insert into user (password, role, user_name, id) values (?, ?, ?, ?)
+2021-10-23 19:08:11,209 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [1] as [VARCHAR] - [$2a$12$8I0ZBFS1EWCcSj3JubMHuOM.zorvkGRINApgNXiYPm2daD/bDbvsu]
+2021-10-23 19:08:11,209 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [2] as [VARCHAR] - [ADMIN]
+2021-10-23 19:08:11,210 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [3] as [VARCHAR] - [ravi]
+2021-10-23 19:08:11,210 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [4] as [BIGINT] - [4]
+2021-10-23 19:08:11,211 DEBUG org.hibernate.SQL [main] call next value for hibernate_sequence
+2021-10-23 19:08:11,212 DEBUG org.hibernate.SQL [main] insert into user (password, role, user_name, id) values (?, ?, ?, ?)
+2021-10-23 19:08:11,213 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [1] as [VARCHAR] - [$2a$12$nZypQU3CWtpJA9w7A/HrC.hhflppokqSDtecACK7snAk7eEDkrrZy]
+2021-10-23 19:08:11,213 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [2] as [VARCHAR] - [USER]
+2021-10-23 19:08:11,213 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [3] as [VARCHAR] - [ajit]
+2021-10-23 19:08:11,213 TRACE org.hibernate.type.descriptor.sql.BasicBinder [main] binding parameter [4] as [BIGINT] - [5]
